@@ -1,4 +1,4 @@
-# sforgcompare
+# sforgcompare with feature main-sub compare button for easily deployment
 Django + Heroku application which compares metadata between two Salesforce environments and presents the differences
 
 ## Addons
